@@ -24,6 +24,11 @@ export default defineComponent({
     <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4">
       <CartCard v-for="(item, index) in counter.cartProducts" :key="index" :product="item" />
     </div>
+    <div class="text-center mt-4">
+      <RouterLink to="/shop">
+        <button class="btn btn-primary">Späť do obchodu</button>
+      </RouterLink>
+    </div>
   </div>
 </template>
 
