@@ -1,0 +1,290 @@
+{
+  "recipes": [
+    {
+      "title": "Boršč",
+      "slug": "borsc",
+      "subtitle": "je tradičná polievka, ktorú nájdete v ukrajinskej kuchyni. Jej základ tvorí vývar z kostí a mäsa a zmes osmaženej zeleniny, kde hlavnú úlohu zohráva červená repa.",
+      "mainImage": "/src/assets/img/pexels-nadin-sh-18743159.jpg",
+      "priprava": [
+        {
+          "main": "Príprava",
+          "sub": "120 min"
+        },
+        {
+          "main": "Úprava",
+          "sub": "45 min"
+        },
+        {
+          "main": "Porcie",
+          "sub": "4"
+        }
+      ],
+      "interestingFact": "Vedeli ste, že boršč má svoje korene nielen na Ukrajine, ale je obľúbený aj v mnohých iných krajinách strednej a východnej Európy? Každý región má svoju jedinečnú verziu tohto ikonického jedla – niekde pridávajú fazuľu, inde slaninu, a dokonca existuje aj recept bez cvikly!",
+      "ingredients": [
+        {
+          "name": "hovädzie mäso",
+          "quantity": "450 g"
+        },
+        {
+          "name": "voda",
+          "quantity": "1.25 liter"
+        },
+        {
+          "name": "červená repa",
+          "quantity": "200 g"
+        },
+        {
+          "name": "biela kapusta",
+          "quantity": "400 g"
+        },
+        {
+          "name": "zemiaky",
+          "quantity": "300 g"
+        },
+        {
+          "name": "mrkva",
+          "quantity": "1 ks"
+        },
+        {
+          "name": "bulharská paprika",
+          "quantity": "1 ks"
+        },
+        {
+          "name": "cibuľa",
+          "quantity": "1 ks"
+        },
+        {
+          "name": "paradajkový pretlak",
+          "quantity": "2-3 lyžice"
+        }
+      ],
+      "steps": [
+        {
+          "id": "panelsStayOpen-collapseOne",
+          "databstarget": "#panelsStayOpen-collapseOne",
+          "ariacontrols": "panelsStayOpen-collapseOne",
+          "stepnumber": "Prvý krok",
+          "step": "Mäso umyjeme a dáme variť do zľahka osolenej vody cca na 1 hodinu domäkka."
+        },
+        {
+          "id": "panelsStayOpen-collapseTwo",
+          "databstarget": "#panelsStayOpen-collapseTwo",
+          "ariacontrols": "panelsStayOpen-collapseTwo",
+          "stepnumber": "Druhý krok",
+          "step":"Cviklu nakrájame na pásiky, osolíme, vysypeme na panvicu, opražíme na masti, pridáme paradajkový pretlak, trochu cukru, privedieme do varu."
+        },
+        {
+          "id": "panelsStayOpen-collapseThree",
+          "databstarget": "#panelsStayOpen-collapseThree",
+          "ariacontrols": "panelsStayOpen-collapseThree",
+          "stepnumber": "Tretí krok",
+          "step":"Cibuľa, mrkva, petržlen, paštrnák a paprika by sa mali tiež vyprážať."
+        },
+        {
+          "id": "panelsStayOpen-collapseFour",
+          "databstarget": "#panelsStayOpen-collapseFour",
+          "ariacontrols": "panelsStayOpen-collapseFour",
+          "stepnumber": "Štvrtý krok",
+          "step":"Zemiaky vhodíme do vývaru, opäť privedieme do polovice uvarené, potom vložíme kapustu a varíme ďalších 10 minút, potom pridáme opraženie a necháme ešte 5 minút prevrieť."
+        },
+        {
+          "id": "panelsStayOpen-collapseFive",
+          "databstarget": "#panelsStayOpen-collapseFive",
+          "ariacontrols": "panelsStayOpen-collapseFive",
+          "stepnumber": "Piaty krok",
+          "step":"Ozdobíme cesnakom roztlačeným s masťou, bobkovým listom, korením, zeleným kôprom a petržlenovou vňaťou. Pred podávaním nechajte 15-20 minút."
+        }
+      ],
+      "finalImage": "/src/assets/img/bor.jpg",
+      "closingText": "BON APPÉTIT"
+    },
+    {
+      "title": "Varenyki",
+      "slug": "varenyki",
+      "subtitle": "ukrajinské národné jedlo",
+      "mainImage": "/src/assets/img/pexels-polina-tankilevitch-8601680.jpg",
+      "priprava": [
+        {
+          "main": "Príprava",
+          "sub": "30 min"
+        },
+        {
+          "main": "Úprava",
+          "sub": "30 min"
+        },
+        {
+          "main": "Porcie",
+          "sub": "4"
+        }
+      ],
+      "interestingFact": "Varenyki majú aj dôležitý folklórny a dokonca až magický význam. Naši predkovia prikladali tomuto jedlu veľkú symboliku. Varenyki tvarom pripomína nový mesiac, preto sa miska používala ako obetný dar. Proces miesenia cesta sa zároveň stotožňoval so zrodom vesmíru a plnka symbolizovala pokračovanie rodu. Varenyki boli povinným jedlom pri významných udalostiach. Dievčatá napríklad rodiacej žene nosili varenyki. Toto jedlo sa jedávalo aj vtedy, keď sa krava telila, aby bolo teľa zdravé. Varenyki jedli počas zberu a verili, že toto jedlo by malo kombajnom dodať silu.",
+      "ingredients": [
+        {
+          "name": "mlieko",
+          "quantity": "½ šálky"
+        },
+        {
+          "name": "voda",
+          "quantity": "½ šálky"
+        },
+        {
+          "name": "pšeničná múka",
+          "quantity": "3 šálky"
+        },
+        {
+          "name": "slnečnicový olej",
+          "quantity": "1 polievková lyžica"
+        },
+        {
+          "name": "soľ",
+          "quantity": "¼ lyžičky"
+        },
+        {
+          "name": "tvaroh",
+          "quantity": "300 g"
+        },
+        {
+          "name": "vajcia",
+          "quantity": "3 ks"
+        },
+        {
+          "name": "strúhanka",
+          "quantity": "2 polievkové lyžice"
+        },
+        {
+          "name": "cesnak",
+          "quantity": "1 klinček"
+        }
+      ],
+      "steps": [
+        {
+          "id": "panelsStayOpen-collapseOne",
+          "databstarget": "#panelsStayOpen-collapseOne",
+          "ariacontrols": "panelsStayOpen-collapseOne",
+          "stepnumber": "Prvý krok",
+          "step": "Začnite prípravou cesta. Do hlbokej misky musíte nasypať múku, vo vnútri urobiť priehlbinu a naliať do nej mlieko a vodu. Cesto je možné miesiť ručne. Na konci miesenia pridajte slnečnicový olej. Cesto nechajte 30 minút."
+        },
+        {
+          "id": "panelsStayOpen-collapseTwo",
+          "databstarget": "#panelsStayOpen-collapseTwo",
+          "ariacontrols": "panelsStayOpen-collapseTwo",
+          "stepnumber": "Druhý krok",
+          "step":"Medzitým si pripravíme plnku: tvaroh, vajcia, strúhanku a cesnak vymiešame do hladka."
+        },
+        {
+          "id": "panelsStayOpen-collapseThree",
+          "databstarget": "#panelsStayOpen-collapseThree",
+          "ariacontrols": "panelsStayOpen-collapseThree",
+          "stepnumber": "Tretí krok",
+          "step":"Cesto rozvaľkajte na 2 milimetre hrubú vrstvu a vyžmýkajte rovnako veľké kruhy. Do stredu dáme plnku a cesto pritlačíme. Ak chcete, môžete si vytvoriť ozdobný cop, aby jedlo vyzeralo elegantnejšie."
+        },
+        {
+          "id": "panelsStayOpen-collapseFour",
+          "databstarget": "#panelsStayOpen-collapseFour",
+          "ariacontrols": "panelsStayOpen-collapseFour",
+          "stepnumber": "Štvrtý krok",
+          "step":"Varenyki by sa mali variť v osolenej vriacej vode asi 5 minút."
+        },
+        {
+          "id": "panelsStayOpen-collapseFive",
+          "databstarget": "#panelsStayOpen-collapseFive",
+          "ariacontrols": "panelsStayOpen-collapseFive",
+          "stepnumber": "Piaty krok",
+          "step":"Potom ho vložte do hlbokého taniera a namažte ho maslom. Varenyki najlepšie chutia s kyslou smotanou, opraženou cibuľkou a krekrami."
+        }
+      ],
+      "finalImage": "/src/assets/img/efVny.jpg",
+      "closingText": "BON APPÉTIT"
+    },
+    {
+      "title": "Kutia",
+      "slug": "kutia",
+      "subtitle": "spojenie generácií a symbol nerozbitnosti.",
+      "mainImage": "/src/assets/img/76724a81-3523d32f8aea401a433c3f2ab7b5382d.jpg",
+      "priprava": [
+        {
+          "main": "Príprava",
+          "sub": "120 min"
+        },
+        {
+          "main": "Úprava",
+          "sub": "45 min"
+        },
+        {
+          "main": "Porcie",
+          "sub": "4"
+        }
+      ],
+      "interestingFact": "Kedysi sa pred jedením kutya trikrát prehodilo na lyžičke, aby sa pekne prilepilo na strop. Ak je viac pšenice, bude dobrá úroda a ak bude mak, včely sa dobre vyroja. Každý rok pred Vianocami si všetky ženy v domácnosti pamätajú, ako variť kutyu. Z rohu sa začína svätá večera.",
+      "ingredients": [
+        {
+          "name": "pšenica",
+          "quantity": "250 g"
+        },
+        {
+          "name": "hrozienky",
+          "quantity": "100 g"
+        },
+        {
+          "name": "mak",
+          "quantity": "100 g"
+        },
+        {
+          "name": "vlašských orechov",
+          "quantity": "100 g"
+        },
+        {
+          "name": "med",
+          "quantity": "100 g"
+        },
+        {
+          "name": "cukru",
+          "quantity": "100 g"
+        },
+        {
+          "name": "štipka soli",
+          "quantity": "1"
+        }
+      ],
+      "steps": [
+        {
+          "id": "panelsStayOpen-collapseOne",
+          "databstarget": "#panelsStayOpen-collapseOne",
+          "ariacontrols": "panelsStayOpen-collapseOne",
+          "stepnumber": "Prvý krok",
+          "step": "Pšenicu nalejte cez noc alebo 4-5 hodín čistou vodou.Pšeno premyjeme, pridáme 0,5 l vody, štipku soli a do hodiny alebo pol varíme, kým sa úplne neuvarí."
+        },
+        {
+          "id": "panelsStayOpen-collapseTwo",
+          "databstarget": "#panelsStayOpen-collapseTwo",
+          "ariacontrols": "panelsStayOpen-collapseTwo",
+          "stepnumber": "Druhý krok",
+          "step":"Vlašské orechy pomelieme. Mak zalejeme vriacou vodou."
+        },
+        {
+          "id": "panelsStayOpen-collapseThree",
+          "databstarget": "#panelsStayOpen-collapseThree",
+          "ariacontrols": "panelsStayOpen-collapseThree",
+          "stepnumber": "Tretí krok",
+          "step":"Po 10-15 minútach scedíme vodu z maku, pridáme cukor a pomelieme ho mixérom. Alebo môžete ihneď skrútiť na ručnom mlynčeku bez namáčania."
+        },
+        {
+          "id": "panelsStayOpen-collapseFour",
+          "databstarget": "#panelsStayOpen-collapseFour",
+          "ariacontrols": "panelsStayOpen-collapseFour",
+          "stepnumber": "Štvrtý krok",
+          "step": "Hrozienka sa umyjú a nalejú vriacou vodou a po 10-15 minútach vypustíme vodu. Med zrieďte v malom množstve teplej vody."
+        },
+        {
+          "id": "panelsStayOpen-collapseFive",
+          "databstarget": "#panelsStayOpen-collapseFive",
+          "ariacontrols": "panelsStayOpen-collapseFive",
+          "stepnumber": "Piaty krok",
+          "step":"Pšeno ochutíme orechmi, makom, hrozienkami a medovým sirupom. Pšeničné kutyu necháme niekoľko hodín lúhovať."
+        }
+      ],
+      "finalImage": "/src/assets/img/kutia-med.jpg",
+      "closingText": "BON APPÉTIT"
+    }
+  ]
+}

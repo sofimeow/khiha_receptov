@@ -1,0 +1,104 @@
+@import './base.css';
+
+body{
+  background-color: #B0EDFF;
+  font-family: 'Montserrat', sans-serif;
+}
+.navbar{
+  background-color: #0A5B73;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+}
+a:hover{
+  color: #FFAD94;
+  transition: 0.8s;
+}
+.hlavna-photo{
+  border-radius: 30%;
+
+}
+.baza{
+  align-items: center;
+}
+.hlavny-cont{
+  padding-top: 100px;
+  padding-bottom: 115px;
+}
+.zagolovok{
+  font-weight: bold;
+}
+.zag{
+  text-align: center;
+  text-transform: uppercase;
+  padding-bottom: 20px;
+}
+
+.text-hlavny1{
+  background-color: #0A5B73;
+  color: aliceblue;
+  border: 5px solid #ffad94;
+  text-align: left;
+  border-radius: 20px;
+  text-indent: 5%;
+  text-align: justify;
+  font-size: 16px;
+}
+.photo11{
+  border-radius: 20px;
+  border: 5px solid #0A5B73;
+}
+.text-hlavny2{
+  background-color: #0A5B73;
+  color: aliceblue;
+  border: 5px solid #ffad94;
+  text-align: left;
+  border-radius: 20px;
+  text-indent: 5%;
+  text-align: justify;
+  font-size: 15.3px;
+}
+.photo22{
+  border-radius: 20px;
+  border: 5px solid #0A5B73;
+}
+.car{
+  padding-top: 50px;
+}
+.jedlo{
+  background-color: #ffad94;
+}
+.osobna-galeria{
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: bold;
+  padding-top: 90px;
+  padding-bottom: 17px;
+}
+.foot{
+  background-color: #0A5B73;
+  color: #B0EDFF;
+}
+.textbo{
+  font-weight: 700;
+  font-size: 17px;
+}
+.ramka{
+  border: 5px solid #FFAD94;
+  margin: 10px;
+  color: white;
+  border-radius: 20px;
+  background-color: #0A5B73;
+}
+
+#image{
+  position: relative;
+  text-align: center;
+}
+
+.centered {
+  position: absolute;
+  transform: translate(-50%,-50%);
+  top: 50%;
+  left: 50%;
+  text-transform: uppercase;
+}
